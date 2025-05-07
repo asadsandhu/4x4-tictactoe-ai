@@ -75,7 +75,7 @@ python tic_tac_toe_ai.py
 
 ## 📸 Screenshots & GIFs
 
-![Game Screenshot](assets/screenshot.png)
+![Game Screenshot](assets/Game.png)
 
 *More visuals coming soon!* Feel free to add in animated GIFs or highlight key moves.
 
